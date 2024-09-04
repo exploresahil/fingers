@@ -4,3 +4,4 @@ uploads
 uploads/*
 env
 env/*
+**/*.jpg
